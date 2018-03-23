@@ -1,6 +1,6 @@
 # es_systems
 
-This is a repo for my emulationstation custom congiuration files.
+This is a repo for my custom emulationstation configuration files.
 
 
 ## Installation
